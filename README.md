@@ -1,4 +1,3 @@
-
 <img 
     align="center" 
     width="1000px" 
@@ -13,11 +12,7 @@
     height="150px" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=nixshake&hide_border=true&theme=dark&include_all_commits=true&count_private=true&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-<img 
-    align="center" 
-    width="150px" 
-    src="https://github.com/user-attachments/assets/58a06f66-6a3b-4f33-8f58-10642fca501b" 
-/>
+
 <img
     align="right" 
     alt="GitHub Stats" 
