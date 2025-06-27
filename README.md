@@ -17,5 +17,5 @@
     align="center" 
     alt="GitHub Stats" 
     height="150px" 
-    src="https://github-readme-stats.vercel.app/api?username=nixshake&theme=dark&hide_border=true&include_all_commits=false&count_private=false" 
+    src="https://github-readme-stats.vercel.app/api?username=nixshake&theme=dark&hide_border=true&include_all_commits=true&count_private=false" 
 />
